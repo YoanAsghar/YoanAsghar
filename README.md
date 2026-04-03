@@ -4,9 +4,8 @@
 
 ### Full Stack Developer | Crafting Digital Solutions
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](tu-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)](tu-portfolio)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/joan-velasquez-71832a274/)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yoanxl31@gmail.com)
 
 </div>
 
@@ -18,8 +17,9 @@ Full Stack Developer apasionado por construir aplicaciones web robustas y escala
 
 ```javascript
 const developer = {
-    name: "Tu Nombre",
-    location: "Medellín, Colombia 🇨🇴",
+    name: "Joan Santiago Velasquez",
+    fuel: "Coffe",
+    location: "Manizales, Colombia 🇨🇴",
     role: "Full Stack Developer",
     focus: ["Clean Code", "Performance", "User Experience"],
     currentlyLearning: "Cloud Architecture & Microservices",
@@ -68,11 +68,11 @@ const developer = {
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoanAsghar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoanAsghar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YoanAsghar&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
 
 </div>
 
@@ -93,6 +93,6 @@ I'm always open to interesting conversations and collaboration opportunities. Wh
 
 ---
 
-⭐️ From [tu-usuario](https://github.com/tu-usuario) | Made with ❤️ in Medellín, Colombia
+⭐️ From [Joan Santiago Velasquez Arias](https://github.com/tu-usuario) | Made with ❤️ in Manizales, Colombia
 
 </div>
