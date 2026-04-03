@@ -46,7 +46,7 @@ Started as an HTML template and evolved into a complete web application with a r
 - **Frontend:** HTML + CSS + JavaScript (Bootstrap + jQuery)
 - **Others:** Docker + Docker Compose · Swagger UI
 
-### [View live demo]([https://github.com/YoanAsghar/FoodMart](https://your-cinema-app.vercel.app](https://cinema-application-gfvn2kxc3-yoanasghars-projects.vercel.app/](https://restaurantapplication-production-8d6b.up.railway.app/)
+### [View live demo](https://github.com/YoanAsghar/FoodMart](https://your-cinema-app.vercel.app](https://cinema-application-gfvn2kxc3-yoanasghars-projects.vercel.app/](https://restaurantapplication-production-8d6b.up.railway.app/)
 ---
 
 ### [CinemaApplication](https://github.com/YoanAsghar/CinemaApplication)
@@ -62,7 +62,7 @@ A clean and modern frontend application to explore movies and TV shows using **T
 
 **Technologies:** React · Tailwind CSS · Vite · TMDB API · Appwrite · Vercel
 
-### [View Live Demo →]([https://your-cinema-app.vercel.app](https://cinema-application-gfvn2kxc3-yoanasghars-projects.vercel.app/)
+### [View Live Demo](https://your-cinema-app.vercel.app](https://cinema-application-gfvn2kxc3-yoanasghars-projects.vercel.app/)
 
 ---
 
