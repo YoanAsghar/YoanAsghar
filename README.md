@@ -67,6 +67,11 @@ const developer = {
 ## 📊 GitHub Activity
 
 <div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YoanAsghar&theme=radical" alt="GitHub Profile Summary" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=YoanAsghar&theme=radical" alt="Top Languages by Repo" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=YoanAsghar&theme=radical" alt="Top Languages by Commit" />
+</div>
   
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoanAsghar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
 
