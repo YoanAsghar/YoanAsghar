@@ -5,6 +5,9 @@ Passionate developer focused on building practical and complete solutions. I spe
 I enjoy creating tools that solve real-world problems and exploring clean architectures and modern technologies.
 
 ---
+💻 Tech Stack:
+
+C# Python JavaScript TypeScript HTML5 TailwindCSS Vercel .Net MySQL Postgres
 
 ## 🚀 Featured Projects
 
