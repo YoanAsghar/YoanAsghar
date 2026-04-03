@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hey, I'm [Tu Nombre]
+# 👋 Hey, I'm Joan Velasquez
 
 ### Full Stack Developer | Crafting Digital Solutions
 
