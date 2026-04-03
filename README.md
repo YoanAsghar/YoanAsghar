@@ -6,6 +6,6 @@ Hi there, I'm Joan Velasquez 👋<br><br>Passionate developer focused on buildin
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/joan-velasquez-71832a274/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joan-velasquez-71832a274/) 
 
 
