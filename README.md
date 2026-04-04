@@ -79,9 +79,8 @@ const developer = {
 ## 🎯 Currently Exploring
 
 - 🔨 Building with modern web technologies and best practices
-- ☁️ Cloud platforms (AWS/Azure) and DevOps workflows
 - 🏗️ System design patterns and scalable architectures
-- 🌱 Contributing to open-source communities
+- 🌱 Developing user utilities for eficiency
 
 ## 🤝 Let's Connect
 
