@@ -15,18 +15,6 @@
 
 Full Stack Developer apasionado por construir aplicaciones web robustas y escalables. Me especializo en crear soluciones end-to-end que combinan experiencias de usuario excepcionales con arquitecturas backend sólidas.
 
-```javascript
-const developer = {
-    name: "Joan Santiago Velasquez",
-    fuel: "Coffe",
-    location: "Manizales, Colombia 🇨🇴",
-    role: "Full Stack Developer",
-    focus: ["Clean Code", "Performance", "User Experience"],
-    currentlyLearning: "Cloud Architecture & Microservices",
-    openTo: "Exciting opportunities and collaborations"
-};
-```
-
 ## 💻 Tech Stack
 
 ### Frontend
