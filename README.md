@@ -39,38 +39,6 @@ Full Stack Developer apasionado por construir aplicaciones web robustas y escala
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-## 🎯 What I Do Best
-
-```diff
-+ Building responsive, accessible frontends with React & TypeScript
-+ Designing and implementing RESTful APIs with Node.js & ASP.NET
-+ Developing scalable backend services with C# and .NET
-+ Database design and optimization (SQL & NoSQL)
-+ Implementing authentication & authorization systems
-+ Writing clean, maintainable, and well-documented code
-```
-
-## 💡 What I'm Up To
-
-## 📊 GitHub Activity
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YoanAsghar&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YoanAsghar&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YoanAsghar&theme=radical&hide_border=true&background=0D1117&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
-
-</div>
-
-## 🎯 Currently Exploring
-
-- 🔨 Building with modern web technologies and best practices
-- 🏗️ System design patterns and scalable architectures
-- 🌱 Developing user utilities for eficiency
-
-## 🤝 Let's Connect
 
 I'm always open to interesting conversations and collaboration opportunities. Whether you have a project in mind, need technical advice, or just want to chat about technology, feel free to reach out!
 
