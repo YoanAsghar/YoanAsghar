@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-Full Stack Developer apasionado por construir aplicaciones web robustas y escalables. Me especializo en crear soluciones end-to-end que combinan experiencias de usuario excepcionales con arquitecturas backend sólidas.
+Full Stack Developer specialized in scalable web solutions with C#/.NET (backend) and React/TypeScript (frontend). Experience in RESTful API design, SQL/NoSQL database architecture, and process automation with n8n. Bilingual (Spanish/English) with professional interpretation experience. Committed to clean code, best practices, and continuous learning.
 
 ## 💻 Tech Stack
 
